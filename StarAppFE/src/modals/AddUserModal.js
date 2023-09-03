@@ -33,6 +33,7 @@ export default class AddUserModal extends Component {
         }
         //console.log(result);
         //window.location.reload();
+        //Added by Deepak Raj
       })
       .catch((error) => {
         //alert("server side error.");
